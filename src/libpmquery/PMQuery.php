@@ -62,7 +62,7 @@ class PMQuery {
 			'Players' => $data[4] ?? null,
 			'MaxPlayers' => $data[5] ?? null,
 			'ServerId' => $data[6] ?? null,
-			'StoredMap' => $data[7] ?? null,
+			'Map' => $data[7] ?? null,
 			'GameMode' => $data[8] ?? null,
 			'NintendoLimited' => $data[9] ?? null,
 			'IPv4Port' => $data[10] ?? null,
